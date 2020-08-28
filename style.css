@@ -42,7 +42,7 @@ body{
     height: 100vh;
     width: 75%;
     padding-top: 15px;
-    background-image: url(images\sparkles.jpg);
+    background-image: url(sparkles.jpg);
 }
 
 .row:after {
